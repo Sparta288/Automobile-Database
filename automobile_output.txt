@@ -1,0 +1,7 @@
+Vehicle 1:
+Make: Ford
+Model: Explorer
+Color: white
+Year: 2003
+Mileage: 193000
+
